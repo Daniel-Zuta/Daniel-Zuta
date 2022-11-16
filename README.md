@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel-Zuta
-- 👀 I’m interested in GIS and Data Science and Pyhton programming
+- 👀 I’m interested in GIS, Data Science and Pyhton programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects involving GIS data analysis 
 - 📫 How to reach me zutadaniel@gmail.com
